@@ -1,0 +1,69 @@
+---
+title: "Novida"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/462577576_1291605812264634_7986671318297307561_n.jpg){fig-align="center" width="2in"}
+
+<center>
+
+<p>Novida, Arsenio, Jr. P.</p>
+
+<p>Address: La Torre South, Bayombong, Nueva Vizcaya</p>
+
+<p>Contact: 09678808594</p>
+
+<p>Email Address: rcnovida\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: La Torre South, Bayombong, Nueva Vizcaya
+
+Date of Birth: January 05, 1997
+
+Place of Birth: Bayombong, Nueva Vizcaya
+
+Age: 27
+
+Gender: Male
+
+Status: Single
+
+Citizenship: Fiipino
+
+Father's Name: Arsenio Basilio Novida Sr.
+
+Mother's Name: Maribeth Guillermo Pablo
+
+<b>Educational Background</b>
+
+<b>Elementray :</b> La Torre South, Elementary School 2009
+
+<b>Secondary:</b> Nueva Vizcaya General Comprehensive High School 2013
+
+<b>Tertiary: </b>Nueva Vizcaya State University 2017
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

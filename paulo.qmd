@@ -1,0 +1,69 @@
+---
+title: "Paulo"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/462540774_2076950049425683_829164726138995386_n.jpg){fig-align="center" width="2in"}
+
+<center>
+
+<p>Paulo, Mhicca R.</p>
+
+<p>Address: Casat, Bayombong, Nueva Vizcaya</p>
+
+<p>Contact: 09945487732</p>
+
+<p>Email Address: paulomhicca\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: Wacal, Solano, Nueva Vizcaya
+
+Date of Birth: February 08, 2003
+
+Place of Birth: Bayombong, Nueva Vizcaya
+
+Age: 21
+
+Gender: Female
+
+Status: Single
+
+Citizenship: Filipino
+
+Father's Name: Edward E. Paulo
+
+Mother's Name: Rosie R. Paulo
+
+<b>Educational Background</b>
+
+<b>Elementray:</b> Casat Elementary School
+
+<b>Secondary:</b> Casat National High School
+
+<b>Tertiary:</b> Nueva Vizcaya State University
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

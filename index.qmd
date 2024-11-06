@@ -1,0 +1,17 @@
+---
+title: "Home"
+format:
+  html:
+    footer: |
+    extra_dependencies:
+---
+
+```         
+Welcome to our website -Powered by quarto
+```
+
+<footer>
+
+<p>© 2024 Group1. All rights resqerved.</p>
+
+</footer>

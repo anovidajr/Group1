@@ -1,0 +1,69 @@
+---
+title: "Garcia"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/1730791307945.jpeg){fig-align="center" width="1.13in"}
+
+<center>
+
+<p>Garcia, Jannrey Joshua N.</p>
+
+<p>Escoting Diadi Nueva Vizcaya</p>
+
+<p>09123002074</p>
+
+<p>joshuagarcianew\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: `Escoting Diadi Nueva Vizcaya`{=html}
+
+Date of Birth: March,01,2003
+
+Place of Birth: Cordon Isabela
+
+Age: 21
+
+Gender: Male
+
+Status: Single
+
+Citizenship: Filipino
+
+Father's Name: Ladislao N. Garcia
+
+Mother's Name: Marietta N. Garcia
+
+<b>Educational Background</b>
+
+<b>Elementary: </b>Escoting Elementary School 2009-2015
+
+<b>Secondary:</b>Diadi National Highschool 2015-2019
+
+<b>Tertiary:</b> Nueva Vizcaya State University 2021 - ...
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

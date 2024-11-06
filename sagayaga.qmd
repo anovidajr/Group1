@@ -1,0 +1,69 @@
+---
+title: "Sagayaga"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/received_249376344576391.jpeg){fig-align="center" width="2.36in"}
+
+<center>
+
+<p>Sagayaga Cris Shena D.</p>
+
+<p>Address: Escoting Diadi Nueva Vzcaya</p>
+
+<p>Contact 09555479527</p>
+
+<p>Email Address sagayagashena\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: Escoting Diadi Nueva Vizcaya
+
+Date of Birth: February 21, 2003
+
+Place of Birth: Escoting Diadi Nueva Vizcaya
+
+Age:21
+
+Gender:Female
+
+Status: Single
+
+Citizenship: Filipino
+
+Father's Name: Mario C. Sagayaga
+
+Mother's Name: Gloria D. Sagayaga
+
+<b>Educational Background</b>
+
+<b>Elementray: </b> Escoting Elementary School 2009-2015
+
+<b>Secondary:</b> Diadi National High School 2015-2021
+
+<b>Tertiary:</b> Nueva Vizcaya State University 2021-
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

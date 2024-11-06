@@ -1,0 +1,69 @@
+---
+title: "Yacapin"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/ttn-image-2023-12-25-151130885.png){fig-align="center" width="1.51in"}
+
+<center>
+
+<p>Yacapin, Marc Dave C.</p>
+
+<p>Address: Tuao South, Bagabag, Nueva Vizcaya</p>
+
+<p>Contact: 09777823748</p>
+
+<p>Email Address: marcdaveyacapin\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: Purok 1, Tuao South, Bagabag, Nueva Vizcaya
+
+Date of Birth: September 5, 2003
+
+Place of Birth: Veterans Hospital
+
+Age: 21
+
+Gender: Male
+
+Status: Single
+
+Citizenship:
+
+Father's Name: Dindo L. Yacapin
+
+Mother's Name: Jane C. Yacapin
+
+<b>Educational Background</b>
+
+<b>Elementray:</b>Pogonsino Elementary School 2014
+
+<b>Secondary:</b> Bascaran National High School 2020
+
+<b>Tertiary:</b>Nueva Vizcaya State University
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

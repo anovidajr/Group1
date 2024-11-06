@@ -1,0 +1,69 @@
+---
+title: "Gayadon"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/462551679_958896962943668_506268020497592150_n.jpg){fig-align="center" width="2in" height="2in"}
+
+<center>
+
+<p>Gayadon, Airah K.</p>
+
+<p>Address: Poblacion, Paracelis, Mountain Province</p>
+
+<p>Contact: 09398827483</p>
+
+<p>Email Address: airahgayadon\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: Poblacion, Paracelis, Mountain Province
+
+Date of Birth: September 01, 2003
+
+Place of Birth: Tabuk City, Kalinga
+
+Age: 21
+
+Gender: Female
+
+Status: Single
+
+Citizenship: Filipino
+
+Father's Name: Guido Gayadon
+
+Mother's Name: Olivia Gayadon
+
+<b>Educational Background</b>
+
+<b>Elementray: </b>Paracelis Central School 2009-2015
+
+<b>Secondary: </b>Paracelis National High School 2015-2021
+
+<b>Tertiary: </b>Nueva Vizcaya State University 2021-2025
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

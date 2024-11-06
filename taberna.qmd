@@ -1,0 +1,69 @@
+---
+title: "Taberna"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/SNOW_20240129_124244_996.jpg){fig-align="center" width="2in" height="2in"}
+
+<center>
+
+<p>Taberna, Jastine Mae P.</p>
+
+<p>Address: Tuao South, Bagabag, Nueva Vizcaya</p>
+
+<p>Contact: 09687591414</p>
+
+<p>Email Address: tabernajastinemae0325\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address: Tuao South, Bagabag, Nueva Vizcaya
+
+Date of Birth: October 11, 2003
+
+Place of Birth: Tuao South, Bagabag, Nueva Vizcaya
+
+Age: 21
+
+Gender: Female
+
+Status: In a Realationship
+
+Citizenship: Filipino
+
+Father's Name: Jeffrey E. Taberna
+
+Mother's Name: Amy P. Taberna
+
+<b>Educational Background</b>
+
+<b>Elementray:</b> Baretbet Elementary School 2009-2015
+
+<b>Secondary:</b> Tuao High School 2015-2021</b>
+
+<b>Tertiary:</b> Nueva Vizcaya State University 2021-2025
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>
